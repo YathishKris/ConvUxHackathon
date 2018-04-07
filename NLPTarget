@@ -1,0 +1,5 @@
+#Our NLP target API should be something like done in the below links. Even if we can reuse this (hoping it gives required data as expected), we are ready with NLP part!
+
+https://github.com/preems/nltk-server
+
+https://github.com/USCDataScience/NLTKRest/tree/master/nltkrest

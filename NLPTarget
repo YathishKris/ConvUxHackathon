@@ -1,5 +1,14 @@
 #Our NLP target API should be something like done in the below links. Even if we can reuse this (hoping it gives required data as expected), we are ready with NLP part!
 
+NLKT Git API (not sure whether still functional)
+=================================================
 https://github.com/preems/nltk-server
-
 https://github.com/USCDataScience/NLTKRest/tree/master/nltkrest
+
+Flask : 
+========
+http://blog.luisrei.com/articles/flaskrest.html
+
+Youtube:
+=========
+NLP with python & NLTK : https://youtu.be/yGKTphqxR9Q
